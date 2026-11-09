@@ -1,7 +1,4 @@
-﻿-- 3 užduotis. Mantas Rimkus, PI24SN
--- Duomenų bazė: RRT (MS SQL Server, T-SQL)
--- Paslaugos: 1 = Skambučiai į Lietuvos tinklus, 4 = Skambučiai į užsienio tinklus
-USE RRT;
+﻿USE RRT;
 GO
 
 -- 1. Papildomos paslaugos, kurias teikia TELE2
